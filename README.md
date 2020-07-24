@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CartHero](https://carthero.io)
+🔭 I’m currently working on [CartHero](https://carthero.io)
